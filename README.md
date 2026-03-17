@@ -77,7 +77,11 @@ This platform enables lawyers, researchers, and legal analysts to:
 
 ---
 ## Team
-HACKOHOLICS
+
+**HACKOHOLICS**
+
 Janvi Kakkad
+
 Kaushalrajsinh Jadeja
+
 Sneh Vamja
