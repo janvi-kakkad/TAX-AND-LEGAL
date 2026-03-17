@@ -62,7 +62,7 @@ Detailed feature documentation is available in:
 
 - [Home Dashboard](docs/home-page.md)  
 - [Case View](docs/case-view.md)  
-- [AI Tools](docs/ai-tools.md)  
+- [AI Tools](docs/additional_features.md)  
 
 ---
 
