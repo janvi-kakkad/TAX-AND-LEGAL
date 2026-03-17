@@ -65,8 +65,6 @@ User enters a valid CNR number or uploads a PDF.
 | Preview PDF | Default active view |
 | Structured View | Switches to tab-based analysis |
 
----
-
 ### Behavior
 
 - PDF preview limited to 5 pages for performance  
@@ -110,7 +108,7 @@ Displays all laws and sections referenced in the case.
 - **Simplifier** — Plain-language explanation  
 - **Punishments** — Applicable penalties
 
-![case-view](../designs/wireframes/Agent Builder for Sections Applied.png)
+![case-view](../designs/architecture/Agent_Builder_for_Sections_Applied.png)
 
 ---
 
@@ -146,7 +144,7 @@ Documentary · Oral · Expert · Forensic · Digital · Physical
 **Purpose:**  
 Displays referenced cases and related citations.
 
-![case-view](../designs/wireframes/Case_view_Facts_Evidence.png)
+![case-view](../designs/wireframes/Case_view_Precedants.png)
 
 ---
 
@@ -174,8 +172,8 @@ Visualizes the court’s reasoning process.
 Displays chronological case progression and duration analysis.
 
 ![case-view](../designs/wireframes/Case_view_Timeline.png)
-**Powered by:** Agent Agent
 
+**Powered by:** Agent Builder
 ### Events
 
 - Incident date  
@@ -188,7 +186,10 @@ Displays chronological case progression and duration analysis.
 
 - Total duration  
 - Time between stages  
-- Number of hearings  
+- Number of hearings
+  
+![case-view](../designs/architecture/Agent_Builder_for_timeline_and_case.png)
+
 ---
 
 
