@@ -108,7 +108,7 @@ Displays all laws and sections referenced in the case.
 - **Simplifier** — Plain-language explanation  
 - **Punishments** — Applicable penalties
 
-![case-view](../designs/architecture/Agent_Builder_for_Sections_Applied.png)
+![case-view](..designs/architecture/Agent_Builder_for_Sections_Applied.jpg)
 
 ---
 
@@ -188,7 +188,7 @@ Displays chronological case progression and duration analysis.
 - Time between stages  
 - Number of hearings
   
-![case-view](../designs/architecture/Agent_Builder_for_timeline_and_case.png)
+![case-view](..designs/architecture/Agent_Builder_for_timeline_and_case_duration.jpg)
 
 ---
 
